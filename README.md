@@ -1,24 +1,42 @@
+# 🌐 Social Links Profile
 
-## Table of contents
-- [Built with](#built-with)
-- [What I learned](#what-i-learned)
-- [Author](#author)
+---
 
+## 🧭 Project Overview
 
-## What I learned
+This project is a personal social links profile page designed to showcase a user’s online presence in a clean and responsive format. The page displays an avatar, personal information, and buttons linking to multiple social platforms, making it easy for visitors to connect with the user.
 
-This project, i want to use for my future website and another projects. I create just a social links list, with regular links. I used fundamentals of CSS and a HTMl
+## 🧱 Technologies Used
 
-## Built with
+- **HTML5 / CSS3**
 
-• Semantic HTML5 markup
+---
 
-• CSS custom properties
+## 📱 Features
 
-• Responsive web development
+- Responsive Design -  optimized for mobile and desktop screens.
 
-## Author
+- Avatar & Personal Info - includes profile picture, name, location, and a short description.
 
-• LinkedIn - (https://www.linkedin.com/in/artsiom-kukankou-7700712b1/)
+- Social Links Buttons - direct links to GitHub, Frontend Mentor, LinkedIn, Twitter, Instagram.
 
-• E-mail: kukankouartsiom@gmail.com
+- Hover Effects - buttons change color on hover for better interactivity.
+
+- Dark Theme - modern dark background with contrasting text for readability.
+
+- Attribution Footer - cites Frontend Mentor challenge and project author.
+
+---
+
+👤 Author
+
+Artsiom Kukankou
+
+🌐 Live Site - https://my-website-omega-three.vercel.app/
+
+💻 GitHub - https://github.com/ypayel
+
+🧠 Frontend Developer (React + TypeScript + SCSS)
+
+📍 Based in Poland
+
